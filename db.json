@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Juan"
+    },
+    {
+      "id": 1,
+      "name": "Daniel"
+    },
+    {
+      "id": 2,
+      "name": "Pepe"
+    },
+    {
+      "id": 3,
+      "name": "Jose"
+    },
+    {
+      "id": 4,
+      "name": "Ana"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 0,
+      "name": "Crear Portal",
+      "datefrom": "1/1/2021",
+      "dateto": "10/1/2021",
+      "status": "done",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae fringilla turpis. Quisque turpis nunc, consectetur nec blandit non, scelerisque a dui. Quisque",
+      "users": [
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "name": "página inicio",
+      "datefrom": "11/1/2021",
+      "dateto": "15/1/2021",
+      "status": "doing",
+      "description": "Quisque ac dui euismod, commodo tellus in, aliquam lorem. Nam auctor sem sed elementum fringilla. Nulla sit amet risus magna. Etiam est augue, hendrerit",
+      "users": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "página kanban",
+      "datefrom": "7/1/2021",
+      "dateto": "14/1/2021",
+      "status": "to do",
+      "description": "Quisque ac dui euismod, commodo tellus in, aliquam lorem. Nam auctor sem sed elementum fringilla. Nulla sit amet risus magna. Etiam est augue, hendrerit",
+      "users": [
+        3
+      ]
+    },
+    {
+      "id": 3,
+      "name": "página detalles",
+      "datefrom": "9/1/2021",
+      "dateto": "20/1/2021",
+      "status": "to do",
+      "description": "Quisque ac dui euismod, commodo tellus in, aliquam lorem. Nam auctor sem sed elementum fringilla. Nulla sit amet risus magna. Etiam est augue, hendrerit",
+      "users": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 4,
+      "name": "formulario",
+      "datefrom": "10/1/2021",
+      "dateto": "20/1/2021",
+      "status": "to do",
+      "description": "Quisque ac dui euismod, commodo tellus in, aliquam lorem. Nam auctor sem sed elementum fringilla. Nulla sit amet risus magna. Etiam est augue, hendrerit",
+      "users": []
+    }
+  ],
+  "fruits": [
+    {
+      "id": 0,
+      "name": "apple",
+      "amount": 50
+    },
+    {
+      "id": 1,
+      "name": "watermelon",
+      "amount": 20
+    },
+    {
+      "id": 2,
+      "name": "banana",
+      "amount": 70
+    },
+    {
+      "id": 3,
+      "name": "lemon",
+      "amount": 45
+    },
+    {
+      "id": 4,
+      "name": "pear",
+      "amount": 16
+    }
+  ]
+}
